@@ -11,6 +11,10 @@
 
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
 
+
+[<img align="middle" src="https://img.shields.io/badge/Telegram-Join%20Channel-blue.svg?logo=telegram&style=for-the-badge"/>](https://t.me/brokenxnetwork)
+
+
 <p align="center">
 <img src="https://telegra.ph/file/91c6683a0074d9dce03c1.jpg">
 </p>
@@ -27,4 +31,3 @@
 
 
 
-[![𝐓ᴇʟᴇɢʀᴀᴍ 𝐔ᴘᴅᴀᴛᴇ 𝐂ʜᴀɴɴᴇʟ](https://img.shields.io/badge/Telegram-Join%20Channel-blue.svg?logo=telegram&style=for-the-badge)](https://t.me/brokenxnetwork)
