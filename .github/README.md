@@ -12,7 +12,7 @@
 
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
 
-[<img align="middle" src="https://img.shields.io/badge/Telegram-𝐓ᴇʟᴇɢʀᴀᴍ%𝐔ᴘᴅᴀᴛᴇ%𝐂ʜᴀɴɴᴇʟ-blue.svg?logo=telegram&style=for-the-badge"/>](https://t.me/brokenxnetwork)
+[<img align="middle" src="https://img.shields.io/badge/Telegram-JOIN%UPDATEChannel-blue.svg?logo=telegram&style=for-the-badge"/>](https://t.me/brokenxnetwork)
 
 
 <p align="center">
