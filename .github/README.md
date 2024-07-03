@@ -16,6 +16,8 @@
 [<img 
 src="https://img.shields.io/badge/Telegram-Join%20Channel-blue.svg?logo=telegram&style=for-the-badge"/>](https://t.me/brokenxnetwork)
 
+[<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
+
 
 <p align="center">
 <img src="https://telegra.ph/file/91c6683a0074d9dce03c1.jpg">
@@ -27,7 +29,7 @@ src="https://img.shields.io/badge/Telegram-Join%20Channel-blue.svg?logo=telegram
 <h1> <img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
 
-[<img src="https://github-readme-stats.vercel.app/api?username=mrxbroken011&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/mrxbroken011) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrxbroken011&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/mrxbroken011)
+[<img src="https://github-readme-stats.vercel.app/api?username=mrxbroken011&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=MrBroken%27s+GitHub+Stats?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/mrxbroken011) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrxbroken011&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/mrxbroken011)
 
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
 
