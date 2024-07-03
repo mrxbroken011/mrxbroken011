@@ -12,16 +12,19 @@
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
 
 <p align="center">
-<img src="https://telegra.ph/file/ca02344736635ce43087a.jpg">
+<img src="https://telegra.ph/file/91c6683a0074d9dce03c1.jpg">
 </p>
 
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
 
-[<img
-src="https://camo.githubusercontent.com/7bcc3dd328ce42b9558e7cba22947f388037053894ef3a216192c12369fad4c9"/>](https://github.com/mrxbroken011) 
 
 <h1> <img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
 [<img src="https://github-readme-stats.vercel.app/api?username=mrxbroken011&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/Asad0111)  [<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrxbroken011&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/mrxbroken011)
 
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
+
+
+
+
+[![𝐓ᴇʟᴇɢʀᴀᴍ 𝐔ᴘᴅᴀᴛᴇ 𝐂ʜᴀɴɴᴇʟ](https://img.shields.io/badge/Telegram-Join%20Channel-blue.svg?logo=telegram&style=for-the-badge)](https://t.me/brokenxnetwork)
