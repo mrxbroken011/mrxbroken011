@@ -13,8 +13,15 @@
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
 
     
-[<img 
-src="https://img.shields.io/badge/Telegram-Join%20Channel-blue.svg?logo=telegram&style=for-the-badge"/>](https://t.me/brokenxnetwork)
+<a href="https://t.me/BROKENXNETWORK"><img title="UPDATE CHANNEL" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+
+<a href="https://t.me/BROKNXSUPPORT"><img title="Telegram Support" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+
+<a href="https://instagram.com/IG_.MR.BROKEN"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
 
