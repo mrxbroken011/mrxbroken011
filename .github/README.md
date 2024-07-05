@@ -12,7 +12,7 @@
 
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
 
-<p align="center"> 
+<p align="center"> <b>💥**𝐂𝐨𝐧𝐭𝐚𝐜𝐭** ℹ️📱 </b>
 <a href="https://t.me/BROKENXNETWORK"><img title="UPDATE" src="https://img.shields.io/badge/Telegram-Channel%25000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>   <a href="https://t.me/BROKNXSUPPORT"><img title="Telegram" src="https://img.shields.io/badge/Telegram-support%24000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>   <a href="https://instagram.com/IG_.MR.BROKEN"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
