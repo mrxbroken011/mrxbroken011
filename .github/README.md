@@ -21,10 +21,9 @@
 
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
 
+<p align="center"><a href="https://t.me/BROKENXNETWORK"><img src="https://telegra.ph/file/91c6683a0074d9dce03c1.jpg"></a></p>
 
-<p align="center">
-<img src="https://telegra.ph/file/91c6683a0074d9dce03c1.jpg">
-</p>
+
 
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
 
