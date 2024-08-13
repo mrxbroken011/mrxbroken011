@@ -15,7 +15,7 @@
 <details>
 <summary><b>💥 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 📱</b></summary>
 <br> 
-<p align="center"><a href="https://t.me/BROKENXNETWORK"><img title="UPDATE" src="https://img.shields.io/badge/Update-Channel%25000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>   <a href="https://t.me/BROKNXSUPPORT"><img title="Telegram" src="https://img.shields.io/badge/Chat-support%24000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>   <a href="https://instagram.com/IG_.MR.BROKEN"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
+<p align="center"><a href="https://t.me/BROKENXNETWORK"><img  src=https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/telegram_icon.png"></a>   <a href="https://t.me/BROKNXSUPPORT"><img title="Telegram" src="https://img.shields.io/badge/Chat-support%24000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>   <a href="https://instagram.com/IG_.MR.BROKEN"><img title="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  
 </details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
