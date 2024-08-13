@@ -35,6 +35,8 @@
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
 
 
-<p align="middle" width="45px" ><summary><b>💥 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 📱</b></summary>
+<p align="center" ><summary><b>💥 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 📱</b></summary>
 <br> 
-[<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/telegram_icon.png" alt="(https://t.me/BrokenxNetwork)"
+<a href="https://t.me/BrokenxNetwork"><img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/telegram_icon.png" width="80px"/> <a href="https://t.me/broknxsupport"><img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/telegram_icon.png" width="80px"/> <a href="https://ig.me/IG_.MR.BROKEN"><img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/insta_icon.png" width="80px"/></p></a>
+
+
