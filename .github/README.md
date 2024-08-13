@@ -37,18 +37,25 @@
 <details>
 <summary><b>💥 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 📱</b></summary>
 <br> 
-<p align="center">
-    <a href="https://t.me/BROKENXNETWORK">
-        <img title="Telegram Update" src="https://github.com/mrxbroken011/mrxbroken011/resources/telegram_icon.png" alt="Telegram Update">
-    </a>
-    <a href="https://t.me/BROKNXSUPPORT">
-        <img title="Telegram Support" src="https://github.com/mrxbroken011/mrxbroken011/resources/telegram_icon.png" alt="Telegram Support">
-    </a>
-    <a href="https://instagram.com/IG_.MR.BROKEN">
-        <img title="Instagram" src="https://github.com/mrxbroken011/mrxbroken011/resources/insta_icon.png" alt="Instagram">
-    </a>  
-</p>
+<ul style="list-style-type:none; text-align:center; padding:0;">
+    <li>
+        <a href="https://t.me/BROKENXNETWORK">
+            <img src="https://github.com/mrxbroken011/mrxbroken011/resources/telegram_icon.png" alt="Telegram Icon" width="45px">
+        </a> 
+        <br>[Telegram](https://t.me/BROKENXNETWORK)
+    </li>
+    <li>
+        <a href="https://t.me/BROKNXSUPPORT">
+            <img src="https://github.com/mrxbroken011/mrxbroken011/resources/telegram_icon.png" alt="Telegram Support Icon" width="45px">
+        </a> 
+        <br>[Support](https://t.me/BROKNXSUPPORT)
+    </li>
+    <li>
+        <a href="https://instagram.com/IG_.MR.BROKEN">
+            <img src="https://github.com/mrxbroken011/mrxbroken011/resources/insta_icon.png" alt="Instagram Icon" width="45px">
+        </a> 
+        <br>[Instagram](https://instagram.com/IG_.MR.BROKEN)
+    </li>
+</ul>
 </details>
-
-
 
