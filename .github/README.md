@@ -37,13 +37,14 @@
 
 <p align="center">
   <b>💥 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 📱</b>
+    
   <a href="https://t.me/BrokenxNetwork">
-    <img src="https://github.com/mrxbroken011/mrxbroken011/blob/master/resources/telegram_icon.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/mrxbroken011/mrxbroken011/master/resources/telegram_icon.png" width="80px"/> 
   </a>
   <a href="https://t.me/broknxsupport">
-    <img src="https://github.com/mrxbroken011/mrxbroken011/blob/master/resources/telegram_icon.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/mrxbroken011/mrxbroken011/master/resources/telegram_icon.png" width="80px"/>
   </a>
   <a href="https://ig.me/IG_.MR.BROKEN">
-    <img src="https://github.com/mrxbroken011/mrxbroken011/blob/master/resources/insta_icon.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/mrxbroken011/mrxbroken011/master/resources/insta_icon.png" width="80px"/>
   </a>
 </p>
