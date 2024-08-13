@@ -36,8 +36,7 @@
 
 
 <p align="center">
-  <summary><b>💥 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 📱</b></summary>
-  <br> 
+  <b>💥 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 📱</b>
   <a href="https://t.me/BrokenxNetwork">
     <img src="https://github.com/mrxbroken011/mrxbroken011/blob/master/resources/telegram_icon.png" width="80px"/>
   </a>
