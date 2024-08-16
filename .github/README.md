@@ -26,6 +26,10 @@
 
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
 
+<p align="center"> <b>ᴍᴜsɪᴄ ʙᴏᴛ</b><br>
+    
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MrxBroken011&repo=AnnieX&theme=flag-india)
+</p>
 
 <h1> <img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
 
