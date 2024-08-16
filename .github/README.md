@@ -36,7 +36,7 @@
 
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
 
-[<img align="center" src="https://github-stats-alpha.vercel.app/api?username=MRXBROKEN011">](https://github.com/MRXBROKEN011 "MRBROKEN")
+[<img align="middle" src="https://github-stats-alpha.vercel.app/api?username=MRXBROKEN011" bg color="000000" width="49%">](https://github.com/MRXBROKEN011 "ᴍʀxʙʀᴏᴋᴇɴ")
 
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
 
