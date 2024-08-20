@@ -39,7 +39,8 @@
 
 <div align="center">
     
-[![GitHub Profile Card](https://github-stats-alpha.vercel.app/api/cards/profile-details?username=mrxbroken011&theme=dracula)](https://github.com/mrxbroken011)
+[![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=mrxbroken011&show_icons=true&hide_title=true&bg_color=000000&text_color=ffffff&icon_color=ffcc00&border_radius=10&border_color=ffffff&show_pfp=true)](https://github.com/mrxbroken011)
+
 
 
 </div>
