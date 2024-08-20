@@ -39,7 +39,8 @@
 
 <div align="center">
     
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrxbroken011&show_pfp=true&show_followers=true&hide_title=true&count_private=true&hide=prs,issues&bg_color=000000&text_color=ffffff&icon_color=ffcc00&border_radius=10&border_color=ffffff)](https://github.com/mrxbroken011)
+[![GitHub Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrxbroken011&theme=dracula)](https://github.com/mrxbroken011)
+
 
 </div>
 
