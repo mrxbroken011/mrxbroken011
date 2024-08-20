@@ -39,7 +39,7 @@
 
 <div align="center">
     
-[![GitHub Profile Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrxbroken011&theme=dracula)](https://github.com/mrxbroken011)
+[![GitHub Profile Card](https://github-stats-alpha.vercel.app/api/cards/profile-details?username=mrxbroken011&theme=dracula)](https://github.com/mrxbroken011)
 
 
 </div>
