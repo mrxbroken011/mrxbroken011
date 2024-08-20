@@ -39,7 +39,7 @@
 
 <div align="center">
     
-[<img align="center" src="https://github-stats-alpha.vercel.app/api?username=MRXBROKEN011" bg_color="000000" width="49%">](https://github.com/mrxbroken011) 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrxbroken011&show_icons=true&hide_title=true&count_private=true&hide=prs,issues&bg_color=000000&text_color=ffffff&icon_color=ffcc00&border_radius=10&border_color=ffffff)](https://github.com/mrxbroken011)
 
 </div>
 
