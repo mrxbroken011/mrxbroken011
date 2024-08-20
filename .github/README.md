@@ -39,7 +39,7 @@
 
 <div align="center">
     
-[![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=mrxbroken011&show_icons=true&hide_title=true&bg_color=000000&text_color=ffffff&icon_color=ffcc00&border_radius=10&border_color=ffffff&show_pfp=true&hide_pr=true&hide_issue=true)](https://github.com/mrxbroken011)
+[![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=mrxbroken011&show_icons=true&hide_title=true&bg_color=000000&text_color=ffffff&icon_color=ffcc00&border_radius=10&border_color=ffffff&show_pfp=true&hide_pr=true&hide_issue=true&width=300)](https://github.com/mrxbroken011)
 
 
 
