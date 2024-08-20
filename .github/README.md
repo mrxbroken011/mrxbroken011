@@ -10,6 +10,7 @@
 </p>
 
 
+
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
 
 
@@ -28,7 +29,7 @@
 
 
 
-<h1> <img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/analytics.webp" width="57px"> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
+<h1> <img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/analytics.webp" width="57px"> <b>ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs</b> </h1>
 
 
 [<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrxbroken011&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=MrBroken%27s+GitHub+Stats?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/mrxbroken011) [<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrxbroken011&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/mrxbroken011)
@@ -36,7 +37,11 @@
 
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
 
-[<img align="center" src="https://github-stats-alpha.vercel.app/api?username=MRXBROKEN011" bg color="000000" width="49%">](https://github.com/mrxbroken011) 
+<div align="center">
+    
+[<img align="center" src="https://github-stats-alpha.vercel.app/api?username=MRXBROKEN011" bg_color="000000" width="49%">](https://github.com/mrxbroken011) 
+
+</div>
 
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
 
