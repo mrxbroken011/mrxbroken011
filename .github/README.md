@@ -9,6 +9,13 @@
  -->    <img align="middle" src="https://profile-counter.glitch.me/mrxbroken011/count.svg" />
 </p>
 
+## 𝗪𝗔𝗥𝗡𝗜𝗡𝗚 ⚠️
+```console
+ 𝗜'𝗺 𝗡𝗼𝘁 𝗔 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
+   𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹𝗹𝘆 𝗜'𝗺 𝗔 𝗗𝗼𝗰.. 
+    𝗖𝗼𝗱𝗶𝗻𝗴 𝗜𝘀 𝗠𝘆 𝗛𝗼𝗯𝗯𝘆 
+       𝗜'𝗺 𝗝𝘂𝘀𝘁 𝗔 𝗡𝗼𝗼𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
+ ```
 
 
 [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
