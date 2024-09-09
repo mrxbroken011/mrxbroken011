@@ -10,7 +10,7 @@
 </p>
 
 ## 𝗪𝗔𝗥𝗡𝗜𝗡𝗚 ⚠️
-```console:
+```warning ⚠️
 
 
     LET ME TELL YOU SOMETHING...
