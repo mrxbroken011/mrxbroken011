@@ -6,7 +6,9 @@
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/mrxbroken011/count.svg" />
+    
+ -->    [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/analytics.webp"/>](https://github.com/mrxbroken011)
+
 </p>
 
 ## 𝗪𝗔𝗥𝗡𝗜𝗡𝗚 ⚠️
