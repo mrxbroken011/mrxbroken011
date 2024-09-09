@@ -7,7 +7,7 @@
 <div align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
     
- -->    [![Analytics](https://raw.githubusercontent.com/mrxbroken011/brokenxnetwork/master/resources/analytics.webp)](https://github.com/mrxbroken011)
+ -->    <img align="middle" src="https://profile-counter.glitch.me/mrxbroken011/count.svg" />
 
 </div>
 
