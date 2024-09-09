@@ -4,12 +4,12 @@
 [<img src="https://github.com/mrxbroken011/Brokenxnetwork/blob/master/resources/hr.gif"/>](https://github.com/mrxbroken011)
 
 
-<p align="center">
+<div align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
     
- -->    [<img src="https://github.com/mrxbroken011/brokenxnetwork/blob/master/resources/analytics.webp"/>](https://github.com/mrxbroken011)
+ -->    [![Analytics](https://raw.githubusercontent.com/mrxbroken011/brokenxnetwork/master/resources/analytics.webp)](https://github.com/mrxbroken011)
 
-</p>
+</div>
 
 ## 𝗪𝗔𝗥𝗡𝗜𝗡𝗚 ⚠️
 ```console
